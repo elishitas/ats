@@ -20,7 +20,7 @@ int main(){
     cin >> f;
 
     resultado = (a+(b/c))/(d+(e/f));
-
+    cout.precision(2);  
     cout << "El resultado de la expresion es de= " << resultado << endl;
 
     return 0;
