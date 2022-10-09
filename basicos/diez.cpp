@@ -1,0 +1,1 @@
+//Realice un programa que calcule el valor que tome la siguiente funcion para unos valores dados de X e Y:
