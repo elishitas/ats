@@ -10,8 +10,8 @@ using namespace std;
 
 int main(){
 
-    int a = 0, b = 0, c = 0, divisionbc = 0, sumaabc = 0;
-    int d = 0, e = 0, f = 0, divisionef = 0, sumadef = 0;
+    int a, b, c, divisionbc = 0, sumaabc = 0;
+    int d, e, f, divisionef = 0, sumadef = 0;
     int divisiontotal = 0;
 
     cout << "Ingrese un primer numero = ";
